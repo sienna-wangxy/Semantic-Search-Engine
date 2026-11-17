@@ -4,7 +4,7 @@
 
 Type a story, a mood, or a theme — like *"a love story set in Paris"* or *"a dark story about revenge"* — and the app finds the Broadway shows whose plot synopses are closest in **meaning**, even when they share none of the same words.
 
-🔗 **Live demo:** [Hugging Face Space](https://huggingface.co/spaces/YOUR-USERNAME/YOUR-SPACE-NAME)
+🔗 **Live demo:** [huggingface.co/spaces/XY-Wang111/broadway-show-finder](https://huggingface.co/spaces/XY-Wang111/broadway-show-finder)
 
 ---
 
